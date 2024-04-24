@@ -1,6 +1,10 @@
 # cub3D
 
-The objective of this project is to create a 3D maze game where the player navigates through a maze using keyboard controls. It involves the use of Ray Casting to make the map appear in 3D.
+The objective of this project is to create a 3D maze game where the player navigates through a maze using keyboard controls. It involves the use of Ray Casting to make the map appear in 3D. 
+
+I collaborated on this project with <a href="https://github.com/Larakh88">
+ Lara Elkhoury
+</a>.
 
 
 ![Screenshot from 2024-04-25 01-55-49](https://github.com/Y2Kgunner/cub3d/assets/84834112/7e78a2f7-0e17-4e8f-96ac-fad6c6181157)
